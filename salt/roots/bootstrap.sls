@@ -5,3 +5,4 @@ bootstrappkgs:
       - vim
       - unzip
       - doxygen
+      - ruby-compass
