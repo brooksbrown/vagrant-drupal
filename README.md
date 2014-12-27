@@ -13,10 +13,9 @@ Salt Formulas
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/brooksbrown/apache-formula">brooksbrown/apache-formula</a><br>
-    <i>fork of <a href="https://github.com/saltstack-formulas/apache-formula">saltstack-formulas/apache-formula</a></i>
+    <a href="https://github.com/saltstack-formulas/apache-formula">saltstack-formulas/apache-formula</a>
   </td>
-  <td>commit: <a href="https://github.com/brooksbrown/apache-formula/commit/7211b0fde7a264e1916038a927e012880a40f017">04/20/2014</a></td>  
+  <td>commit: <a href="https://github.com/saltstack-formulas/apache-formula/commit/aa0d6fdfc49e8ddde4f05689835f569b69bd6ae5">11/20/2014</a></td>  
 </tr>
 <tr>
   <td>
