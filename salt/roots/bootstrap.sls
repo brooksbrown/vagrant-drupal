@@ -4,3 +4,4 @@ bootstrappkgs:
       - git
       - vim
       - unzip
+      - doxygen
