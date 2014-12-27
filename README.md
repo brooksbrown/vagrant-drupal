@@ -15,7 +15,7 @@ Salt Formulas
   <td>
     <a href="https://github.com/saltstack-formulas/apache-formula">saltstack-formulas/apache-formula</a>
   </td>
-  <td>commit: <a href="https://github.com/saltstack-formulas/apache-formula/commit/aa0d6fdfc49e8ddde4f05689835f569b69bd6ae5">12/20/2014</a></td>  
+  <td>commit: <a href="https://github.com/saltstack-formulas/apache-formula/commit/aa0d6fdfc49e8ddde4f05689835f569b69bd6ae5">11/20/2014</a></td>  
 </tr>
 <tr>
   <td>
