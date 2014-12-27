@@ -20,6 +20,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   end 
 
   config.vm.provision :salt do |salt|
+
+    # Apache Pillar
+    #
     salt.pillar({
       "apache" => {
         "sites" => {
@@ -37,6 +40,18 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
       }
     })
 
+    # Mysql Pillar
+    #
+    salt.pillar({
+      "mysql" => {
+        "server" => {
+          "root_password" => "somepass",
+        },
+      }
+    })
+
+    # Mysql-Basic-Management Pillar
+    #
     salt.pillar({
       "mysql-basic-management" => {
         "databases" => { 
