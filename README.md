@@ -9,20 +9,19 @@ Salt Formulas
 
 <tr>
   <td><a href="https://github.com/saltstack-formulas/mysql-formula">saltstack-formulas/mysql-formula</a></td>
-  <td>commit: <a href="https://github.com/saltstack-formulas/mysql-formula/commit/608e09037034b8f8d45eddc451232d6f4e501a7d">05/15/2014</a></td>
+  <td>commit: <a href="https://github.com/saltstack-formulas/mysql-formula/commit/22b53e4e44cfe079fd7ed3ae3eef3a5d0606854e">12/17/2014</a></td>
 </tr>
 <tr>
   <td>
     <a href="https://github.com/saltstack-formulas/apache-formula">saltstack-formulas/apache-formula</a>
   </td>
-  <td>commit: <a href="https://github.com/saltstack-formulas/apache-formula/commit/aa0d6fdfc49e8ddde4f05689835f569b69bd6ae5">11/20/2014</a></td>  
+  <td>commit: <a href="https://github.com/saltstack-formulas/apache-formula/commit/aa0d6fdfc49e8ddde4f05689835f569b69bd6ae5">12/20/2014</a></td>  
 </tr>
 <tr>
   <td>
-   <a href="https://github.com/brooksbrown/php-formula">brooksbrown/php-formula</a><br>
-   <i>fork of <a href="https://github.com/saltstack-formulas/php-formula">saltstack-formulas/php-formula</a></i>
+   <a href="https://github.com/saltstack-formulas/php-formula">saltstack-formulas/php-formula</a>
   </td>
-  <td>commit: <a href="https://github.com/brooksbrown/php-formula/commit/a7721c7b5236193b056686711aa3632a367b1efe">04/24/2014</a></td>
+  <td>commit: <a href="https://github.com/saltstack-formulas/php-formula/commit/03b320eeb23028cd6a831af717d3785b3dce1d85">12/20/2014</a></td>
 </tr>
 <tr>
   <td>
