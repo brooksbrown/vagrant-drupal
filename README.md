@@ -1,7 +1,7 @@
-Vagrant Drupal
+Vagrant Drupal (for v7)
 =======
 
-  A vagrant setup for drupal that uses the salt provisioner. Uses Ubuntu Trusty64 (php5.5, mysql2.4).
+  A vagrant setup for drupal 7 that uses the salt provisioner. Uses Ubuntu Trusty64 (php5.5, mysql2.4).
 
 Salt Formulas
 ------------
